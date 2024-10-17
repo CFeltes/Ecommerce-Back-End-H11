@@ -44,8 +44,9 @@ Step-by-step instructions on how to install and set up your project.
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/Ecommerce-Back-End-H11/
-https://github.com/CFeltes/Ecommerce-Back-End-H11
+https://cfeltes.github.io/Ecommerce-Back-End-H11/
+https://github.com/CFeltes/Ecommerce-Back-End-H11.git
+git@github.com:CFeltes/Ecommerce-Back-End-H11.git
 
 
 
