@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-back-end-h11",
+  "version": "1.0.0",
+  "description": "Eleventh homework assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFeltes/Ecommerce-Back-End-H11.git"
+  },
+  "author": "CFeltes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFeltes/Ecommerce-Back-End-H11/issues"
+  },
+  "homepage": "https://github.com/CFeltes/Ecommerce-Back-End-H11#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
